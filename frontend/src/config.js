@@ -3,8 +3,8 @@
 
 const config = {
   contracts: {
-    userManagementAddress: "0x3a32F7eee5673668c25B04e4b3034ff58382221F", // Replace with actual address after deployment
-    eWasteTrackingAddress: "0x0c4db7E87BB13cCcf4fA6F03bd0C986AbC99CcA0" // Replace with actual address after deployment
+    userManagementAddress: "0xcfB7dAaCa660b4f4bc7D353f9a031aE3F515B0d7", // Replace with actual address after deployment
+    eWasteTrackingAddress: "0x852A65331eD4966Cd71B5030B6CdDe46A4C10566" // Replace with actual address after deployment
   },
   // Add other configuration as needed
 };
